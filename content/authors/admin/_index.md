@@ -94,9 +94,7 @@ work:
 #    company_logo: ''
     date_start: 2020-05-01
     date_end: ''
-#    summary: |2-
 #      Responsibilities include:
-#      - enter
   - position: research fellow, Freiburg, Germany
     company_name: Institute for Frontier Areas in Psychology and Mental Health (IGPP)
     company_url: 'igpp.de'
