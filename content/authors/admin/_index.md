@@ -104,10 +104,10 @@ work:
     company_name: Institute for Frontier Areas in Psychology and Mental Health (IGPP)
     company_url: 'igpp.de'
     supervisor: PD Dr. Marc Wittmann
-#    company_logo: ''
+#      company_logo: ''
     date_start: 2016-01-06
     date_end: 2020-05-31
-#    summary: |
+#      summary: |
 #      Responsibilities included:
 #      - Migrated infrastructure to a new data center
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -115,7 +115,7 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-#skills:
+# skills:
 #  - name: Technical Skills
 #    items:
 #      - name: Python
@@ -169,7 +169,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-#awards:
+# awards:
 #  - title: Neural Networks and Deep Learning
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
 #    date: '2023-11-25'
