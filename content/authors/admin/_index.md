@@ -94,9 +94,9 @@ work:
     supervisors: Prof. Dr. Dr. Jean-Louis van Gelder / Dr. Willem E. Frankenhuis / Dr. Jessica Deitzer
 #    company_logo: ''
     date_start: 2020-05-01
-#    date_end: ''
+    date_end: ''
 #    summary: |
-#      Responsabilities include:
+#      Responsibilities include
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
