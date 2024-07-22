@@ -95,7 +95,7 @@ work:
 #    company_logo: ''
     date_start: 2020-05-01
     date_end: ''
-#    summary: |   
+#    summary: |
 #      Responsabilities include:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
