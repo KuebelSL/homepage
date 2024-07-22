@@ -107,7 +107,7 @@ work:
     date_start: 2016-01-06
     date_end: 2020-05-31
 #    summary: |
-#      Responsibilities include:
+#      Responsibilities included:
 #      - Migrated infrastructure to a new data center
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
