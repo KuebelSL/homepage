@@ -89,7 +89,7 @@ education:
 
 work:
   - position: PhD student
-    company_name: Max-Planck Institute for the Study of Crime, Security, and Law (MPI-CSL)
+    company_name: Max-Planck Institute for the Study of Crime, Security and Law (MPI-CSL)
     company_url: 'csl.mpg.de'
     supervisors: Prof. Dr. Dr. Jean-Louis van Gelder / Dr. Willem E. Frankenhuis / Dr. Jessica Deitzer
 #    company_logo: ''
@@ -100,18 +100,7 @@ work:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: research fellow
-    company_name: Institute for Frontier Areas in Psychology and Mental Health (IGPP)
-    company_url: 'igpp.de'
-    supervisor: PD Dr. Marc Wittmann
-#    company_logo: ''
-    date_start: 2016-01-06
-    date_end: 2020-05-31
-#    summary: |
-#      Responsibilities included:
-#      - Migrated infrastructure to a new data center
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
