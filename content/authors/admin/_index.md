@@ -94,9 +94,9 @@ work:
 #    company_logo: ''
     date_start: 2020-05-01
     date_end: ''
-#    summary: |
-#      Responsibilities include:
-#      - Migrated infrastructure to a new data center
+#    summary: |   
+#      Responsabilities include:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: research fellow, Freiburg, Germany
