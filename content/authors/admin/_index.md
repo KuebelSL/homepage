@@ -91,17 +91,15 @@ work:
   - position: PhD student
     company_name: Max-Planck Institute for the Study of Crime, Security, and Law (MPI-CSL)
     company_url: 'csl.mpg.de'
-    supervisors: Prof. Dr. Dr. Jean-Louis van Gelder; Dr. Willem E. Frankenhuis; Dr. Jessica Deitzer
+    supervisors: Prof. Dr. Dr. Jean-Louis van Gelder, Dr. Willem E. Frankenhuis, Dr. Jessica Deitzer
 #    company_logo: ''
     date_start: 2020-05-01
     date_end: ''
 #    summary: |   
-
 #      Responsabilities include:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
   - position: research fellow
     company_name: Institute for Frontier Areas in Psychology and Mental Health (IGPP)
     company_url: 'igpp.de'
