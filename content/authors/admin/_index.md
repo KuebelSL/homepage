@@ -95,9 +95,9 @@ work:
     date_start: 2020-05-01
     date_end: ''
 #      Responsibilities include:
-#      Migrated infrastructure to a new data center
-#      lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - Migrated infrastructure to a new data center
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: research fellow, Freiburg, Germany
     company_name: Institute for Frontier Areas in Psychology and Mental Health (IGPP)
     company_url: 'igpp.de'
