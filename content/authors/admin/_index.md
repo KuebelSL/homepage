@@ -96,6 +96,7 @@ work:
     date_start: 2020-05-01
     date_end: ''
 #    summary: |   
+
 #      Responsabilities include:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
