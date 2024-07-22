@@ -86,6 +86,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: PhD student
     company_name: Max-Planck Institute for the Study of Crime, Security, and Law (MPI-CSL)
